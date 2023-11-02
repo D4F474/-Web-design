@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+body{
+    background-image:url(/kamuknojicahartiq/photos/background.jpg);
+    background-size:cover;
+    color: white;
+}
+button{
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 15px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color:darkorange;
+    border: none;
+    border-radius: 15px;
+}
