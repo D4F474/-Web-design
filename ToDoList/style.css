@@ -1,0 +1,9 @@
+body{
+background-image:url(/ToDo/photos/background.jpg);
+background-size:cover;
+color:white;
+}
+
+table, td, tr{
+    border: 1px solid black
+}
